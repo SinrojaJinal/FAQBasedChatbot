@@ -2,3 +2,4 @@ nltk
 sqlite3
 pandas
 fastapi
+uvicorn
